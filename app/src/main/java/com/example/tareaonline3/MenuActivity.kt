@@ -4,9 +4,10 @@ import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
-import com.example.tareaonline3_ejercicio2.MainActivity3
+
 import tareaOnline3.ejercicio1.MainActivity
 import tareaOnline3.ejercicio2.MainActivity2
+import tareaOnline3.ejercicio3.MainActivity3
 
 class MenuActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

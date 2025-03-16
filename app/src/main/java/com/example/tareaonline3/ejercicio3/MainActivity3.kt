@@ -1,5 +1,4 @@
-package com.example.tareaonline3_ejercicio2
-
+package tareaOnline3.ejercicio3
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import android.content.Intent

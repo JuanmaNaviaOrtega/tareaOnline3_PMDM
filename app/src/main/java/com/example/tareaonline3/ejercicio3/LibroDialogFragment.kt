@@ -1,4 +1,4 @@
-package com.example.tareaonline3_ejercicio2
+package tareaOnline3.ejercicio3
 
 import android.app.AlertDialog
 import android.app.Dialog

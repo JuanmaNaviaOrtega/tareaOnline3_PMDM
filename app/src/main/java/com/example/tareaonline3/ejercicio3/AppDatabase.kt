@@ -1,4 +1,4 @@
-package com.example.tareaonline3_ejercicio2
+package tareaOnline3.ejercicio3
 
 import android.content.Context
 import androidx.room.Database
