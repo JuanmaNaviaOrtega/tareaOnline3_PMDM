@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvTiempoRestante"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tiempo restante: 0 minutos"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvAlarmasPendientes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alarmas pendientes: 0"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnEditarAlarmas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Editar Alarmas" />
+
+    <Button
+        android:id="@+id/btnIniciarAlarmas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Iniciar Alarmas" />
+
+    <Button
+        android:id="@+id/btnReiniciarAlarmas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reiniciar Alarmas" />
+</LinearLayout>

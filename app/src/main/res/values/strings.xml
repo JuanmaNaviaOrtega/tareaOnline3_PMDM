@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tareaOnline3</string>
+    <string name="fab_content_description">Añadir libro</string>
+    <string name="titulo">Título</string>
+    <string name="autor">Autor</string>
+    <string name="enlace">Enlace</string>
+    <string name="fecha_de_publicacion">Fecha de publicación</string>
+    <string name="genero">Género</string>
+    <string name="foto_url">Foto (URL)</string>
+</resources>
